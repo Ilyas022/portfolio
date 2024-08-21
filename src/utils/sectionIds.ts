@@ -1,0 +1,7 @@
+export const SKILLS_SECTION_ID = 'skills'
+export const PROJECTS_SECTION_ID = 'projects'
+export const EXPERIENCE_SECTION_ID = 'experience'
+export const FACTS_SECTION_ID = 'facts'
+export const LANGUSGES_SECTION_ID = 'languages'
+export const EDUCATION_SECTION_ID = 'education'
+export const CONTACTS_SECTION_ID = 'contacts'
